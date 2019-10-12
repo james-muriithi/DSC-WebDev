@@ -1,0 +1,15 @@
+html{
+	height: 100%;
+}
+body{
+	height: 100%;
+}
+.nav-link{
+	color: white;
+}
+#home{
+	 background: url(../images/background.jpeg);
+	 height: 100%;
+	 background-size: cover;
+	 background-repeat: no-repeat;
+}
